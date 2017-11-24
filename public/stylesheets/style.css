@@ -1,8 +1,43 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: fantasy;
 }
 
 a {
   color: #00B7FF;
 }
+#headerText{
+	color: red;
+    font-size: 25px;
+    
+    text-align: center;
+}
+#mainImg{
+	width: 100px;
+    margin-left: 42%;
+}
+#titleText{
+	margin-top: 5%;
+    text-align: center;
+
+}
+#btngrp_yesBtn{
+	margin-left: 47%;
+}
+#btngrp_yesBtn_0{
+	padding: 2%;
+    border-radius: 20%;
+}
+#cancelImg{
+	height: 20px;
+	margin-left: 5%;
+}
+#addImg{
+	height: 20px;
+    margin-left: 5%;
+}
+
+
+
+
